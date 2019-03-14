@@ -15,8 +15,6 @@ END_PLAYERS
 Miami Monsters,MIA
 END_PLAYERS
 Knoxville Bats,KNOX
-QB, Ellis May, 30, 2012, 82, 60, 75, 80, 79, 60, 8.0, 1
-QB, Theo Alvarez, 26, 2016, 74, 60, 77, 85, 69, 71, 4.4, 1
 END_PLAYERS
 Birmingham Iron,BIR
 END_PLAYERS
@@ -37,10 +35,12 @@ END_PLAYERS
 Michigan Wolves,MICH
 END_PLAYERS
 Iowa Indians,IOWA
+QB, Theo Alvarez, 26, 2016, 74, 60, 77, 85, 69, 71, 6.4, 2
 END_PLAYERS
 Chicago Mob,CHI
 END_PLAYERS
 Texas Marshalls,TEX
+QB, Ellis May, 30, 2012, 82, 60, 75, 80, 79, 60, 8.0, 3
 END_PLAYERS
 D.C. Bravehearts,DC
 END_PLAYERS
@@ -55,7 +55,7 @@ END_PLAYERS
 Tampa Bay Bandits,TB
 END_PLAYERS
 Orlando Apollos,ORL
-QB, Garrett Gilbert, 27, 2015, 87, 85, 81, 90, 88, 76, 16.5, 4
+QB, Garrett Gilbert, 28, 2015, 90, 85, 85, 92, 88, 76, 16.5, 4
 QB, Tom Savage, 32, 2010, 74, 72, 76, 80, 72, 64, 6.5, 2
 END_PLAYERS
 Arizona Hotshots,ARI 
